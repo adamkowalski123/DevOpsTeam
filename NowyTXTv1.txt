@@ -1,2 +1,3 @@
 To jest plik nr 01
 To jest plik nr 02
+To jest plik nr 03 - new stash
